@@ -15,3 +15,5 @@
 ![img](https://github.com/Alive0103/XDU-CS-lab/blob/main/img/%E8%A1%A8%E6%83%851.jpg)
 
 ❤另外欢迎看看我的博客捏~[https://alive0103.github.io/](https://alive0103.github.io/) 记录了一些我本人关于考研、实习、学习中的一些思考和体会，希望对你有帮助！
+---
+博主已毕业，大三下-大四上部分课程设计未更新（但均有留存一份），可以提issues，博主后续会经常来逛的，看到都会补充，欢迎共建，有新的补充内容可以直接提交PR。
